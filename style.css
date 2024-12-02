@@ -8,4 +8,5 @@ header{
     border-bottom: solid 2px black/*borda solida de px preta*/
     padding: 20px;/*espaçamento interno*/
     font: size 32px;/*tamanho da fonte*/
+    color:blue(5,435,321)
 }
