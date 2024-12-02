@@ -10,3 +10,9 @@ header{
     font: size 32px;/*tamanho da fonte*/
     color:blue(5,435,321)
 }
+
+section{
+    background-color: aquamarine;
+}
+
+
